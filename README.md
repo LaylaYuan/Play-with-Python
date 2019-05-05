@@ -60,4 +60,4 @@ The _cluster.py_ under _Cluster_ folder shows how to perform **Dendrogram** and 
 
 The plot below shows the hierarchical clusters, for dendrogram, the number of clusters is determined manually, if we chose distance = 3 as threshold, we will get 3 clusters.
 
-！[Dendrogram](Cluster/Dendrogram.png)
+![Dendrogram](Cluster/Dendrogram.png)
