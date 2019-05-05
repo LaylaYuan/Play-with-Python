@@ -11,3 +11,10 @@ The _Regression.py_ calculates the different RMSE under different learning rates
 The plots below shows the variation of the RMSE under different learning rates.
 
 ![Regression](regression/regression.png)
+
+
+## Decision Tree
+![DT1](DecisionTree/DecisionTree1.png)
+![DT2](DecisionTree/DecisionTree2.png)
+![DT3](DecisionTree/DecisionTree3.png)
+
