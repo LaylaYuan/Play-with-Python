@@ -66,7 +66,4 @@ The plots below show the clusters after several times' iteration, the process wi
 
 ![cluster1](Cluster/iteration = 0.png)
 
-![cluster2](Cluster/iteration = 5.png)
-
-![cluster3](Cluster/iteration = 8.png)
 
