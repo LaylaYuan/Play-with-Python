@@ -64,6 +64,10 @@ The plot below shows the hierarchical clusters, for dendrogram, the number of cl
 
 The plots below show the clusters after several iterations, the process will stop either the new centroids and old centroids are converged or after finishing the last iteration set in advance.
 
+###Conclusion
+
+The centroids are fixed after 8 iterations.
+
 ![cluster1](Cluster/iteration0.png)
 ![cluster2](Cluster/iteration5.png)
 ![cluster3](Cluster/lastiteration8.png)
