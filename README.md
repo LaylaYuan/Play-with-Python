@@ -1,6 +1,6 @@
 # I   Love    Python
 
-Hello everyone, welcome to my page, I share some of my python codes which are related to **Data Science** and **Machine Learning** here. Hope to get feedback from you and communicate with you :) 
+Hello everyone, welcome to my page, I share some of my python codes which are related to **Data Science** and **Machine Learning** here. You are welcome to write feedback and make comments :)  
 
 Thanks for your time
 
