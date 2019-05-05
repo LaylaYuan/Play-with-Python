@@ -61,3 +61,10 @@ The _cluster.py_ under _Cluster_ folder shows how to perform **Dendrogram** and 
 The plot below shows the hierarchical clusters, for dendrogram, the number of clusters is determined manually, if we chose distance = 3 as threshold, we will get 3 clusters.
 
 ![Dendrogram](Cluster/Dendrogram.png)
+
+The plots below show the clusters after several times' iteration, the process will stop either the new cnetroids and old centroids are converged or after finishing the last iteration set in advance.
+
+![cluster1](Cluster/iteration = 0.png)
+![cluster2](Cluster/iteration = 5.png)
+![cluster3](Cluster/iteration = 8.png)
+
