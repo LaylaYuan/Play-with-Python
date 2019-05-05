@@ -62,7 +62,12 @@ The plot below shows the hierarchical clusters, for dendrogram, the number of cl
 
 ![Dendrogram](Cluster/Dendrogram.png)
 
-The plots below show the clusters after several times' iteration, the process will stop either the new cnetroids and old centroids are converged or after finishing the last iteration set in advance.
+The plots below show the clusters after several iterations, the process will stop either the new cnetroids and old centroids are converged or after finishing the last iteration set in advance.
 
 ![cluster1](Cluster/iteration0.png)
+![cluster2](Cluster/iteration5.png)
+![cluster3](Cluster/lastiteration8.png)
+
+
+
 
