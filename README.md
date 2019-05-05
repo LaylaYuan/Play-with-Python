@@ -1,8 +1,8 @@
 # I   Love    Python
 
-Welcome to my page, all the codes are written by Layla Yuan; 
+Hello everyone, welcome to my page, I share some of my python codes which are related to **Data Science** and **Machine Learning** here. Hope to get feedback from you and communicate with you :) 
 
-Hope you enjoy the time.
+Thanks for your time
 
 ## Regression
 
