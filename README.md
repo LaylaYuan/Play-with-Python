@@ -6,6 +6,8 @@ Hope you enjoy the time.
 
 ## Regression
 
-The _Regression.py_ calculates and plots the different RMSE under different learning rates in 10 epochs; The learning rate varies from 1e-05 to 1.
+The _Regression.py_ calculates the different RMSE under different learning rates in 10 epochs; The learning rate varies from 1e-05 to 1.
 
-The ![Regression](regression/regression.png)
+The plots below shows the variation of the RMSE under different learning rates.
+
+![Regression](regression/regression.png)
