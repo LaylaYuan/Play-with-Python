@@ -6,7 +6,7 @@ Hope you enjoy the time.
 
 ## Regression
 
-  The _Regression.py_ calculates the different **RMSE** under different learning rates in 10 epochs; The learning rate varies     from 1e-05 to 1.
+  The _Regression.py_ under _regression_ folder calculates the different **RMSE** under different learning rates in 10 epochs; The learning rate varies     from 1e-05 to 1.
 
   The plots below shows the variation of the RMSE under different learning rates.
 
@@ -22,6 +22,8 @@ Hope you enjoy the time.
 
 
 ## Decision Tree
+
+  The _DecisionTree.py_ under _DecisionTree_ folder uses decision tree models in **machine learning** to predict the classification of the test dataset based on the information obtained from the training dataset. 
 
   The plots below depicts the trends of the accuracies of predictions with different max delpths
 
@@ -51,3 +53,11 @@ Hope you enjoy the time.
 ![DT2](DecisionTree/DecisionTree2.png)
 ![DT3](DecisionTree/DecisionTree3.png)
 
+
+## Cluster
+
+The _cluster.py_ under _Cluster_ folder shows how to perform **Dendrogram** and **K-Means** in python. 
+
+The plot below shows the hierarchical clusters, for dendrogram, the number of clusters is determined manually, if we chose distance = 3 as threshold, we will get 3 clusters.
+
+！[Dendrogram](Cluster/Dendrogram.png]
